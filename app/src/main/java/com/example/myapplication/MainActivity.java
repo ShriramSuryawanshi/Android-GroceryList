@@ -144,7 +144,7 @@ public class MainActivity extends Activity
 
                 inputManager.hideSoftInputFromWindow(getCurrentFocus().getWindowToken(),
                         InputMethodManager.HIDE_NOT_ALWAYS);
-                
+
                 EditText editText = (EditText)findViewById(R.id.e1);
                 EditText editText4 = (EditText)findViewById(R.id.e4);
                 EditText editText2 = (EditText)findViewById(R.id.e2);
